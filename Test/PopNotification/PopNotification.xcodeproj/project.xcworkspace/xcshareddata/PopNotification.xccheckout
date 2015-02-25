@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2D80624F-4E80-4D35-BC06-9D808F577287</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PopNotification</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>ED709F6CEC8F19590C5CE5912C54406382E13AD5</key>
+		<string>https://github.com/galvinlibrary/iOSbeacon2.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Test/PopNotification/PopNotification.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>ED709F6CEC8F19590C5CE5912C54406382E13AD5</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/galvinlibrary/iOSbeacon2.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>ED709F6CEC8F19590C5CE5912C54406382E13AD5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ED709F6CEC8F19590C5CE5912C54406382E13AD5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOSbeacon2</string>
+		</dict>
+	</array>
+</dict>
+</plist>
